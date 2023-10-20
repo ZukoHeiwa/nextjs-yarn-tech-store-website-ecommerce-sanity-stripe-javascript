@@ -15,12 +15,18 @@ nextjs-yarn-tech-store-website-ecommerce-sanity-stripe-javascript is a simple E-
 
 To run nextjs-yarn-tech-store-website-ecommerce-sanity-stripe-javascript on your local machine, follow these steps:
 
-Before installation make sure you have bun
+Start by checking if you have Node.js and Npm:
+```
+node -v
+npm -v
+```
+
+Now check if you have yarn:
 ```
 yarn --version
 ```
 
-Otherwise download here https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable, after the installation of npm you can start with yarn installation:
+Otherwise download here Node.js that will download automatically and npm that goes with Node.js https://nodejs.org/en change the installation to whatever you desire, after that you need to install yarn from this website you can see some basic understanding https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable, after the installation of npm you can start with yarn installation:
 
 ```
 npm install --global yarn
